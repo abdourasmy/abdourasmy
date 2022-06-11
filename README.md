@@ -22,6 +22,6 @@
 
 <br/>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-# <span>html <small>(html<sub>5</sub>)</small></span> & <span>Css <small>(Css<sub>3</sub>)</small></span> & <span>Bootstrap</span> & <span>Sass</span> & <span>Js <small>(Dom,Bom,Es6,Json,Ajax)</small></span> & <span>Jqery</span> & <span>VueJS</span> & <span>Git <small>(Github)</small></span> & <span>Command Line</span>
-</p>
+<h2 align="left">
+<span>html <small>(html<sub>5</sub>)</small></span> & <span>Css <small>(Css<sub>3</sub>)</small></span> & <span>Bootstrap</span> & <span>Sass</span> & <span>Js <small>(Dom,Bom,Es6,Json,Ajax)</small></span> & <span>Jqery</span> & <span>VueJS</span> & <span>Git <small>(Github)</small></span> & <span>Command Line</span>
+</h2>
