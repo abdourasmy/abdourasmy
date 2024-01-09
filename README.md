@@ -1,12 +1,11 @@
 <h1 align="center">Hello there  👋, I'm Abdullah Rasmy  ♥</h1>
-<h3 align="center">I'm a web developer , I've been working as a frontend developer for three years of experience, and now I'm working in full stack development for one year. I have experience dealing with programming and modern web technologies , I have built a lot of projects, I like to learn something new every day .</h3>
+<h3 align="center">With five months of dedicated experience in full-stack development, I've honed my skills in programming and contemporary web technologies. My enthusiasm for growth fuels a daily commitment to learning and staying abreast of new developments in the ever-evolving field of web development.</h3>
 <br/>
 
-- 🌱 I'm now learning to get to **Full Stack Developer**
 
-- 👨‍💻 All of my projects are available at [https://abdourasmy.github.io/portifolio/](https://abdourasmy.github.io/portifolio/)
+- 👨‍💻 Some of my projects are available at [https://abdourasmy.github.io/portifolio/](https://abdourasmy.github.io/portifolio/)
 
-- 📫 How to reach me **abdourasmy15@gmail.com**
+- 📫 How to reach me **abdourasmy@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1itOzNciSBPcCIrAUd5572HY8swQFDrFynMTxV-oezlQ/edit?usp=sharing](https://docs.google.com/document/d/1itOzNciSBPcCIrAUd5572HY8swQFDrFynMTxV-oezlQ/edit?usp=sharing)
 
