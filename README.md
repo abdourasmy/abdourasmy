@@ -14,9 +14,9 @@
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/abdourasmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="swfhfiqa" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abdallah-rasmy-88078a209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa-mohamed-479b40238" height="30" width="40" /></a>
-<a href="https://www.facebook.com/abdou3rasmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mostafashadow1" height="30" width="40" /></a>
+<a target="_blank" href="https://codepen.io/abdourasmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="swfhfiqa" height="30" width="40" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/abdallah-rasmy-88078a209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa-mohamed-479b40238" height="30" width="40" /></a>
+<a target="_blank" href="https://www.facebook.com/abdou3rasmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mostafashadow1" height="30" width="40" /></a>
 </p>
 
 <br/>
